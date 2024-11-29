@@ -1,4 +1,4 @@
-Assi Jatt hage. Moong phali nai ugaandeyaN.
+Assi Jatt hege. Moong phali nai ugaandeyaN.
 
 <!---
 juttkisaan/juttkisaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
